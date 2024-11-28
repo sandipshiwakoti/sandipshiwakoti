@@ -9,6 +9,7 @@ I'm a **Software Engineer** with a passion for building mobile and web applicati
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📚 Most of my projects are available at [Github](https://github.com/sandipshiwakoti?tab=repositories)
 - 📫 How to reach me: codewithshiwakoti@gmail.com
+- 🎉 Fun fact: Recently had eye surgery - now I can see every pixel on the screen, but merge conflicts are still a blur!
 
 ### 🛠️ Languages and Tools
 
