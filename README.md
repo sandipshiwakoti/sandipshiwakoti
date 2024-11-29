@@ -1,11 +1,11 @@
 # Hey, I am Sandip Shiwakoti! 👋
 
-I'm a **Software Engineer** with a passion for building mobile and web applications. ✨ I believe in writing clean code that makes a difference and **enjoy sharing knowledge** with fellow developers. 🚀 In my free time, I work on side projects and **explore new technologies**
+I'm a **Software Engineer** with a passion for building mobile and web applications. ✨ I believe in writing clean code that makes a difference and **enjoy sharing knowledge** with fellow developers. 🚀 In my free time, I work on side projects and **explore new technologies**.
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding"/>
 
 - 🔭 I'm currently working on **Cross-Platform Mobile App with React Native**
-- 🌱 I'm currently learning **RSC in mobile apps with Expo**
+- 🌱 I'm currently learning **RSC in Mobile Apps with Expo**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📚 Most of my projects are available at [Github](https://github.com/sandipshiwakoti?tab=repositories)
 - 📫 How to reach me: codewithshiwakoti@gmail.com
@@ -37,9 +37,9 @@ I'm a **Software Engineer** with a passion for building mobile and web applicati
 ### 🤝 Find Me Elsewhere
 
 <p align="left">
-<a href="https://twitter.com/kreton_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kreton_x" height="30" width="40" /></a>
+<a href="https://x.com/shiwakotisandip" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="X (Twitter)" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandipshiwakoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipshiwakoti" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/sandipshiwakoti.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="sandipshiwakoti.bsky.social" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/sandipshiwakoti.com.np" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="sandipshiwakoti.bsky.social" height="30" width="40" /></a>
 <a href="https://www.producthunt.com/@sandip_shiwakoti" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/product-hunt.svg" alt="@sandipshiwakoti" height="30" width="40" /></a>
 </p>
 
